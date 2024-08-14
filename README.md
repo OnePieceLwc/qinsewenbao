@@ -2,6 +2,8 @@
 
 🚀 你好, 我是琴瑟文暴公司的官网 ⚡️
 
+⚡️效果直接访问：https://qinsewenbao.netlify.app/
+
 欢迎你的到来，我是琴瑟文暴，一个热爱编程的年轻人。这个网站是我用 Astro 框架搭建的，旨在分享我的编程经验和心得。如果你对编程感兴趣，欢迎随时与我交流。
 
 使用 Tailwind CSS 3.0。⚡️ 使用 Astro、TypeScript、ESLint、Prettier 制作、 顺风 CSS。
